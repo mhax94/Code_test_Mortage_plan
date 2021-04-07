@@ -1,4 +1,6 @@
 /*
+The code takes the text from prospects.txt and displays the customer info according to the assignment
+
 @author Max Hellberg
  */
 
