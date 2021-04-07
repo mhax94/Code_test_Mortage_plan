@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SQLTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-04-07T09:03:04" hostname="DESKTOP-HL7TASU" time="0.522">
+  <properties/>
+  <testcase name="splitGivenName()" classname="SQLTest" time="0.001"/>
+  <testcase name="displaySQLTest()" classname="SQLTest" time="0.469"/>
+  <testcase name="removeRandomIDAndThenAllID()" classname="SQLTest" time="0.033"/>
+  <testcase name="sqlAdjustmentTest()" classname="SQLTest" time="0.001"/>
+  <testcase name="addAndRemoveCustomerTest()" classname="SQLTest" time="0.018"/>
+  <system-out><![CDATA[idCustomer      firstName       surName         totalLoan       interest        years           monthlyPayment  
+id: 2 removed. New table:
+idCustomer      firstName       surName         totalLoan       interest        years           monthlyPayment  
+id: 1 removed. New table:
+idCustomer      firstName       surName         totalLoan       interest        years           monthlyPayment  
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

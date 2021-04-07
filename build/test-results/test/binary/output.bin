@@ -1,0 +1,12 @@
+_Claes Månsson wants to borrow 1300.55€ for a period of 2 years and pay 59.22€ each month
+qidCustomer      firstName       surName         totalLoan       interest        years           monthlyPayment  
+id: 2 removed. New table:
+qidCustomer      firstName       surName         totalLoan       interest        years           monthlyPayment  
+
+id: 1 removed. New table:
+
+qidCustomer      firstName       surName         totalLoan       interest        years           monthlyPayment  
+prospects.txt
+
+$[Claes Månsson, 1300.55, 8.67, 2]
+false
