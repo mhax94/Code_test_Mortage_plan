@@ -1,3 +1,9 @@
+/*
+this code calculates the monthly payment of the customer and displays the info of the customer according to the assignment
+
+@author Max Hellberg
+*/
+
 import java.text.DecimalFormat;
 
 public class MortageCalculator {
