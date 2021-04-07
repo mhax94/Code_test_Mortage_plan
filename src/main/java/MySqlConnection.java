@@ -1,3 +1,9 @@
+/*
+this code takes the array from Main and adjusts it to then send to the database
+
+@author Max Hellberg
+*/
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.sql.Connection;
