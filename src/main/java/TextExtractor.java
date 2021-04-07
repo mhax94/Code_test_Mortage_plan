@@ -1,3 +1,9 @@
+/*
+this code extracts the text from prospects.txt and makes a 2D-array where each row is a customer and then returns the array to Main
+
+@author Max Hellberg
+*/
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
