@@ -1,8 +1,4 @@
 /*
-
-
-
-
 @author Max Hellberg
  */
 
